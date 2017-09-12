@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+logging: 
+  level: 
+    com: 
+      netflix: 
+	eureka: OFF
+        discovery: OFF
+
+
+
